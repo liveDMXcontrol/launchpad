@@ -1,0 +1,8 @@
+{
+  "FB1": [ "FB1A", "FB1B", "FB1C", "FB1D" ],
+  "FB2": [ "FB2A", "FB2B", "FB2C", "FB2D" ],
+  "AllPAR": [ "PAR1", "PAR2" ],
+  "All3LED": [ "3LED1", "3LED2" ],
+  "AllSpinny": [ "All3LED", "MUSH" ],
+  "AllRGB": [ "FB1", "FB2", "AllPAR" ]
+}

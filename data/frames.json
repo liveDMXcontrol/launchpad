@@ -1,0 +1,54 @@
+{
+  "wash": {
+    "blackout": [
+      {
+        "AllRGB": "black"
+      }
+    ],
+    "house": [
+      {
+        "AllRGB": "white"
+      }
+    ],
+    "red": [
+      {
+        "AllRGB": "red"
+      }
+    ],
+    "green": [
+      {
+        "AllRGB": "green"
+      }
+    ],
+    "blue": [
+      {
+        "AllRGB": "blue"
+      }
+    ],
+    "yellow": [
+      {
+        "AllRGB": "yellow"
+      }
+    ],
+    "purple": [
+      {
+        "AllRGB": "purple"
+      }
+    ],
+    "cyan": [
+      {
+        "AllRGB": "cyan"
+      }
+    ]
+  },
+  "two-tone": {
+    "red-blue": [
+      {
+        "FB1": "red",
+        "FB2": "blue",
+        "PAR1": "red",
+        "PAR2": "blue"
+      }
+    ]
+  }
+}

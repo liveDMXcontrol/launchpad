@@ -1,0 +1,50 @@
+[
+  {
+    "device": "Chauvet 4 Bar",
+    "nickname": "4Bar 1",
+    "channel": 64,
+    "ids": [ "FB1A", "FB1B", "FB1C", "FB1D" ]
+  },
+  {
+    "device": "Chauvet 4 Bar",
+    "nickname": "4Bar 2",
+    "channel": 79,
+    "ids": [ "FB2A", "FB2B", "FB2C", "FB2D" ]
+  },
+  {
+    "device": "Sunray Tri-LED",
+    "nickname": "White Spinny",
+    "channel": 130,
+    "ids": [ "3LED1" ]
+  },
+  {
+    "device": "Sunray Tri-LED",
+    "nickname": "Black Spinny",
+    "channel": 130,
+    "ids": [ "3LED2" ]
+  },
+  {
+    "device": "Chauvet LED Mushroom",
+    "nickname": null,
+    "channel": 133,
+    "ids": [ "MUSH" ]
+  },
+  {
+    "device": "Dimmer Pack",
+    "nickname": null,
+    "channel": 135,
+    "ids": [ "DIM1A", "DIM1B", "DIM1C", "DIM1D" ]
+  },
+  {
+    "device": "LED PARcan",
+    "nickname": "PARcan 1",
+    "channel": ,
+    "ids": [ "PAR1" ]
+  },
+  {
+    "device": "LED PARcan",
+    "nickname": "PARcan 2",
+    "channel": ,
+    "ids": [ "PAR2" ]
+  }
+]
